@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "ALGODesTool",
+  "version": "0.0.0.1",
+  "description": "ALGODesTool",
+  "icons": {
+    "16": "images/Des.png",
+    "48": "images/Des.png",
+    "128": "images/Des.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "images/Des.png",
+      "38": "images/Des.png"
+    },
+    "default_title": "ALGODesTool",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "page": "index.html"
+  }
+}
+//todo
+//https://segmentfault.com/q/1010000009002314
