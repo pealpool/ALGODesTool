@@ -13,12 +13,10 @@
       "19": "images/Des.png",
       "38": "images/Des.png"
     },
-    "default_title": "ALGODesTool",
-    "default_popup": "popup.html"
+    "default_title": "ALGODesTool"
   },
   "background": {
-    "page": "index.html"
+    "scripts": ["js/background.js"],
+    "persistent": false
   }
 }
-//todo
-//https://segmentfault.com/q/1010000009002314

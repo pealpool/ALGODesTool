@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ba236c80-1c53-407d-924e-2c03f557c6bc" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +32,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1ik6fqKeHlW0L2sHStsQNvQFIcx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +51,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo_Crx_helloW" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,10 +65,43 @@
       <option name="presentableId" value="Default" />
       <updated>1602439348355</updated>
       <workItem from="1602439349458" duration="613000" />
+      <workItem from="1602520094344" duration="9000" />
+      <workItem from="1602520110565" duration="5369000" />
+      <workItem from="1602525501889" duration="484000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2113" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602525442993">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2113" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1602525442993" />
+    <state x="2213" y="455" key="FileChooserDialogImpl" timestamp="1602520263724">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2213" y="455" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1602520263724" />
+    <state x="1934" y="344" key="SettingsEditor" timestamp="1602520960468">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1934" y="344" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1602520960468" />
+    <state x="2089" y="332" key="run.anything.popup" timestamp="1602523966912">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2089" y="332" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1602523966912" />
   </component>
 </project>
