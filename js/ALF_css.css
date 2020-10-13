@@ -16,7 +16,7 @@ body {
     width: 800px;
     height: 300px;
     font-size: 180px;
-    color: #dee6ea;
+    color: rgba(221, 229, 233, 1);
     font-weight: bold;
     text-align: center;
     top: 0;
@@ -26,4 +26,51 @@ body {
     margin: auto;
     -webkit-user-select: none;
     user-select: none;
+    animation: change 3s linear 0s infinite;
+}
+
+@keyframes change {
+    0% {
+        color: rgba(221, 229, 233, 1)
+    }
+    50% {
+        color: rgba(221, 229, 233, 0.1)
+    }
+    100% {
+        color: rgba(221, 229, 233, 1)
+    }
+}
+
+#floatBox{
+    position: fixed;
+    background-color: #fff;
+    width: 200px;
+    height: 80px;
+    box-shadow: 3px 4px 16px #00000029;
+    bottom: 40px;
+    right: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 80px;
+}
+#downloadBox{
+    float: left;
+    width: 120px;
+    height: 80px;
+    color: #4e4e4e;
+}
+#reBox{
+    float: left;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    background-color: #4e4e4e;
+}
+
+.myHover{
+    cursor: pointer;
+}
+.myHover:hover{
+    opacity: 0.5;
 }
