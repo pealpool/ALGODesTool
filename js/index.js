@@ -29,7 +29,6 @@ window.onresize = function () {
     changeFrameHeight();
 }
 
-
 let $myFm = document.createElement("iframe");
 $myFm.src = "翼彩-首页设计稿.html";
 $myFm.frameBorder = 0;
@@ -45,5 +44,10 @@ if ($myFm.attachEvent){
         $("#myFrame").scrollLeft(400);//todo 无效
     };
 }
-
 document.body.appendChild($myFm);
+
+
+$(document).on('click','#reBox',function () {
+   $('#myFrame').remove();
+   $('#getBox').show();
+});
