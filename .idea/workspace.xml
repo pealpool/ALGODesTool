@@ -28,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,7 +52,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo_Crx_helloW" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chrome-plugin-demo-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -70,6 +76,7 @@
       <workItem from="1602520110565" duration="5369000" />
       <workItem from="1602525501889" duration="484000" />
       <workItem from="1602563856814" duration="2019000" />
+      <workItem from="1602994160165" duration="12336000" />
     </task>
     <servers />
   </component>
@@ -93,9 +100,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2113" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1602525442993" />
-    <state x="2213" y="455" key="FileChooserDialogImpl" timestamp="1602520263724">
-      <screen x="0" y="0" width="3440" height="1410" />
+    <state x="1235" y="336" key="FileChooserDialogImpl" timestamp="1603005394494">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1235" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603005394494" />
     <state x="2213" y="455" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1602520263724" />
     <state x="1934" y="344" key="SettingsEditor" timestamp="1602520960468">
       <screen x="0" y="0" width="3440" height="1410" />
