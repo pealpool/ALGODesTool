@@ -16,11 +16,18 @@ body {
     /*display: none;*/
     width: 100%;
     height: 100%;
-    background-color: #d9dcde;
+    background:transparent;
+    position: fixed;
+    z-index: 10;
+}
+#backGroundBox {
+    /*display: none;*/
+    width: 100%;
+    height: 100%;
     position: absolute;
 }
 
-#getBoxFont {
+#bgFont {
     position: absolute;
     width: 800px;
     height: 300px;
@@ -62,6 +69,7 @@ body {
     font-weight: bold;
     text-align: center;
     line-height: 80px;
+    z-index: 20;
 }
 #downloadBox{
     float: left;

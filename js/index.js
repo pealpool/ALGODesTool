@@ -32,16 +32,17 @@ function getFileName(name) {
 }
 
 function overLook(imgData) {
+    $('#myImg').remove();
     let $img = document.createElement("img");
     $img.id = 'myImg';
     $img.src = imgData;
     document.body.appendChild($img);
-    $('#getBox').hide();
+    $('#backGroundBox').hide();
 }
 
 $(document).on('click', '#reBox', function () {
     $('#myImg').remove();
-    $('#getBox').show();
+    $('#backGroundBox').show();
 });
 
 
